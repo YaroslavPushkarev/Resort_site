@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Resort_site/static/css/main.be6a972b.chunk.css",
+    "main.js": "/Resort_site/static/js/main.ae8997ce.chunk.js",
+    "main.js.map": "/Resort_site/static/js/main.ae8997ce.chunk.js.map",
+    "runtime-main.js": "/Resort_site/static/js/runtime-main.d9e973ba.js",
+    "runtime-main.js.map": "/Resort_site/static/js/runtime-main.d9e973ba.js.map",
+    "static/js/2.81ab5bbe.chunk.js": "/Resort_site/static/js/2.81ab5bbe.chunk.js",
+    "static/js/2.81ab5bbe.chunk.js.map": "/Resort_site/static/js/2.81ab5bbe.chunk.js.map",
+    "static/js/3.3dfe089c.chunk.js": "/Resort_site/static/js/3.3dfe089c.chunk.js",
+    "static/js/3.3dfe089c.chunk.js.map": "/Resort_site/static/js/3.3dfe089c.chunk.js.map",
+    "index.html": "/Resort_site/index.html",
+    "static/css/main.be6a972b.chunk.css.map": "/Resort_site/static/css/main.be6a972b.chunk.css.map",
+    "static/js/2.81ab5bbe.chunk.js.LICENSE.txt": "/Resort_site/static/js/2.81ab5bbe.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Resort_site/static/media/room-2.48c60181.jpeg",
+    "static/media/details-1.c4851740.jpeg": "/Resort_site/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/Resort_site/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/Resort_site/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/Resort_site/static/media/details-4.f2053654.jpeg",
+    "static/media/logo.87947b58.svg": "/Resort_site/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/Resort_site/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/Resort_site/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/Resort_site/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/Resort_site/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/Resort_site/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/Resort_site/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/Resort_site/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/Resort_site/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/Resort_site/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/Resort_site/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/Resort_site/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9e973ba.js",
+    "static/js/2.81ab5bbe.chunk.js",
+    "static/css/main.be6a972b.chunk.css",
+    "static/js/main.ae8997ce.chunk.js"
+  ]
+}
