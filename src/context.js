@@ -19,7 +19,6 @@ componentDidMount(){
     loading: false
   })
 }
-
 formatData(items){
   let tempItems = items.map(item => {
     let id = item.sys.id 
